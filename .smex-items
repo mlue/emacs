@@ -1,0 +1,28 @@
+
+;; ----- smex-history -----
+(
+ disable-theme
+ disable-mouse-mode
+ mouse-wheel-mode
+ mouse-kill
+ package-install
+ rinari-minor-mode
+ flycheck-manual
+)
+
+;; ----- smex-data -----
+(
+ (eval-expression . 1)
+ (disable-theme . 3)
+ (fiplr-find-file . 3)
+ (flycheck-compile . 1)
+ (flycheck-manual . 2)
+ (flycheck-clear . 2)
+ (undo-tree-load-history . 1)
+ (undo-tree-visualize . 4)
+ (rinari-minor-mode . 1)
+ (package-install . 1)
+ (mouse-kill . 1)
+ (mouse-wheel-mode . 1)
+ (disable-mouse-mode . 1)
+)

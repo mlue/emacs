@@ -1,0 +1,1 @@
+("~/Repos/emacsconf/" "/var/www/docker/primary/" "~/Repos/.tmux/" "~/Repos/rc/" "/var/www/docker/primary/vendor/bundle/ruby/2.2.0/bundler/gems/spree-51fe8655cf2c/")
