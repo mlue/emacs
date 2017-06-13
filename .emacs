@@ -15,9 +15,8 @@
 
 (add-to-list 'auto-mode-alist '("\\.rake\\'" . ruby-mode))
 (add-to-list 'auto-mode-alist '("\\.log\\'" . auto-revert-mode))
-
+(load-file "~/.emacs.d/init.el")
 (require 'yaml-mode)
 (add-to-list 'auto-mode-alist '("\\.yml\\'" . yaml-mode))
 
 (require 'haml-mode)
-(load-file "~/.emacs.d/init.el")
