@@ -20,3 +20,6 @@
 (add-to-list 'auto-mode-alist '("\\.yml\\'" . yaml-mode))
 
 (require 'haml-mode)
+(global-set-key (kbd "C-x f") 'find-file-in-repository)
+(load-theme 'sanityinc-tomorrow-bright t)
+(provide '.emacs)

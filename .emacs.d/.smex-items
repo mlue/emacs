@@ -1,0 +1,33 @@
+
+;; ----- smex-history -----
+(
+ enable-theme
+ tabify
+ comment-or-uncomment-region
+ string-insert-rectangle
+ undo-tree-visualize
+ recover-file
+ disable-theme
+)
+
+;; ----- smex-data -----
+(
+ (eval-expression . 1)
+ (disable-theme . 4)
+ (fiplr-find-file . 3)
+ (flycheck-compile . 1)
+ (flycheck-manual . 2)
+ (flycheck-clear . 2)
+ (undo-tree-load-history . 1)
+ (undo-tree-visualize . 8)
+ (rinari-minor-mode . 1)
+ (package-install . 1)
+ (mouse-kill . 1)
+ (mouse-wheel-mode . 1)
+ (disable-mouse-mode . 1)
+ (recover-file . 2)
+ (string-insert-rectangle . 4)
+ (comment-or-uncomment-region . 1)
+ (tabify . 1)
+ (enable-theme . 1)
+)
